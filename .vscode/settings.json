@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "24l01.h": "c",
+        "l298n.h": "c",
+        "esp8266_timer.h": "c"
+    }
+}
